@@ -3095,7 +3095,7 @@ End to end,End-To-End
 End-to-End,End-To-End
 End-to-end,End-To-End
 end-to-end,End-To-End
-end-to-end convolutional LSTM neural network,End-To-End Convolutional Lstm Neural Network
+end-to-end convolutional LSTM neural network,End-To-End Convolutional LSTM Neural Network
 end-to-end framework,End-To-End Framework
 End-to-End Model,End-To-End Model
 End-to-end recognition,End-To-End Recognition
@@ -4581,7 +4581,7 @@ handwritten text IR,Handwritten Text Image Recognition
 Handwritten Text Images,Handwritten Text Images
 handwritten text line recognition,Handwritten Text Line Recognition
 Handwritten text line segmentation,Handwritten Text Line Segmentation
-Hand-written text localization,Hand-Written Text Localization
+Hand-written text localization,Handwritten Text Localization
 HANDWRITTEN TEXT PROCESSING,Handwritten Text Processing
 Hand written text recognition,Handwritten Text Recognition
 hand written text recognition,Handwritten Text Recognition
@@ -5245,7 +5245,7 @@ Indian script character recognition,Indian Script Character Recognition
 Indian script handwriting recognition,Indian Script Handwriting Recognition
 Indian script identification,Indian Script Identification
 Indian Script Recognition,Indian Script Recognition
-Indian script-based OCR system,Indian Script-Based Ocr System
+Indian script-based OCR system,Indian Script-Based OCR System
 INDIAN SCRIPTS,Indian Scripts
 Indian scripts,Indian Scripts
 Indian text,Indian Text
@@ -5750,7 +5750,7 @@ Large datasets,Large Datasets
 Large Eigen Values,Large Eigen Values
 Large margin semi-supervised learning,Large Margin Semi-Supervised Learning
 large number of classes,Large Number Of Classes
-Large OCR system,Large Ocr System
+Large OCR system,Large OCR System
 large scale classification problems,Large Scale Classification Problems
 Large vocabulary,Large Vocabulary
 large vocabulary,Large Vocabulary
@@ -5798,8 +5798,8 @@ Layout analysis,Layout Analysis
 layout analysis,Layout Analysis
 layout segmentation,Layout Segmentation
 LBP,Lbp
-LCS,Lcs
-LDA,Lda
+LCS,LCS
+LDA,LDA
 LDP,Ldp
 Leaf swing energy,Leaf Swing Energy
 leaky-integrate-fire (LIF) neuron,Leaky-Integrate-Fire (Lif) Neuron
@@ -6086,9 +6086,9 @@ Long Short Term Memory,Long Short Term Memory
 Long short term memory,Long Short Term Memory
 long short term memory,Long Short Term Memory
 Long Short -Term Memory,Long Short -Term Memory
-Long Short Term Memory (LSTM),Long Short Term Memory (Lstm)
-Long Short Term Memory (LSTM) autoencoders,Long Short Term Memory (Lstm) Autoencoders
-Long short term memory (LSTM) networks,Long Short Term Memory (Lstm) Networks
+Long Short Term Memory (LSTM),Long Short Term Memory
+Long Short Term Memory (LSTM) autoencoders,Long Short Term Memory Autoencoders
+Long short term memory (LSTM) networks,Long Short Term Memory Network
 Long Short Term Memory Network,Long Short Term Memory Network
 Long short term memory network,Long Short Term Memory Network
 long short term memory network,Long Short Term Memory Network
@@ -6096,16 +6096,16 @@ Long Short-Term Memory,Long Short-Term Memory
 Long Short-term Memory,Long Short-Term Memory
 Long short-term memory,Long Short-Term Memory
 long short-term memory,Long Short-Term Memory
-long short-term memory (LSTM),Long Short-Term Memory (Lstm)
+long short-term memory (LSTM),Long Short-Term Memory 
 Long short-term memory network,Long Short-Term Memory Network
 longest run,Longest Run
 Longest Run Features,Longest Run Features
 Longitudinal study,Longitudinal Study
-Long-Short Term Memory,Long-Short Term Memory
-long-short term memory,Long-Short Term Memory
-Long-short term memory networks,Long-Short Term Memory Networks
-long-short-term-memory,Long-Short-Term-Memory
-long-short-term-memory (LSTM),Long-Short-Term-Memory (Lstm)
+Long-Short Term Memory,Long Short-Term Memory
+long-short term memory,Long Short-Term Memory
+Long-short term memory networks,Long Short-Term Memory Network
+long-short-term-memory,Long Short-Term Memory
+long-short-term-memory (LSTM),Long Short-Term Memory
 look-ahead technique,Look-Ahead Technique
 Loop and Gaussian Grid Feature,Loop And Gaussian Grid Feature
 loops,Loops
@@ -6129,13 +6129,13 @@ low-resource data,Low-Resource Data
 LPQ,Lpq
 LRF,Lrf
 LS-SVM,LS-SVM
-LSTM,Lstm
-lstm,Lstm
-LSTM acceleration and compression,Lstm Acceleration And Compression
-LSTM network,Lstm Network
-LSTM RNN,Lstm Rnn
-LSTM-CRF,Lstm-Crf
-LSTM-RNN,Lstm-Rnn
+LSTM,Long Short-Term Memory
+lstm,Long Short-Term Memory
+LSTM acceleration and compression,LSTM Acceleration And Compression
+LSTM network,Long Short-Term Memory Network
+LSTM RNN,LSTM-RNN
+LSTM-CRF,LSTM-CRF
+LSTM-RNN,LSTM-RNN
 LTS rules,Lts Rules
 Lucene,Lucene
 Lukasiewicz implication,Lukasiewicz Implication
@@ -6165,9 +6165,9 @@ MACHINE RECOGNITION,Machine Recognition
 Machine recognition,Machine Recognition
 Machine translation,Machine Translation
 machine translation,Machine Translation
-machine translation of OCR text,Machine Translation Of Ocr Text
+machine translation of OCR text,Machine Translation Of OCR Text
 Machine Vision,Machine Vision
-Machine-printed and Hand-written text separation,Machine-Printed And Hand-Written Text Separation
+Machine-printed and Hand-written text separation,Machine-Printed And Handwritten Text Separation
 machine-printed documents,Machine-Printed Documents
 MACHINE-PRINTED TEXT,Machine-Printed Text
 machine-printed text recognition,Machine-Printed Text Recognition
@@ -6323,17 +6323,17 @@ Max-pooling,Max-Pooling
 max-product belief propagation,Max-Product Belief Propagation
 Maya glyph,Maya Glyph
 MAYASTROUN-database,Mayastroun-Database
-Mayek27&#8221,Mayek27&#8221
-MCE,Mce
-MCS,Mcs
-MDA,Mda
-MDLSTM,Mdlstm
-MD-LSTM,Md-Lstm
-MDLSTM technologies,Mdlstm Technologies
-MDRNN,Mdrnn
-MDSLTM,Mdsltm
+Mayek27&#8221,Mayek27
+MCE,MCE
+MCS,MCS
+MDA,MDA
+MDLSTM,MD-LSTM
+MD-LSTM,MD-LSTM
+MDLSTM technologies,MD-LSTEM Technologies
+MDRNN,MD-RNN
+MDSLTM,MD-LSTM
 mean field,Mean Field
-MEAN-FIELD,Mean-Field
+MEAN-FIELD,Mean Field
 measure,Measure
 mechanical transmission,Mechanical Transmission
 MECHANISMS,Mechanisms
@@ -6516,7 +6516,7 @@ Mobile handsets,Mobile Handsets
 Mobile Learning,Mobile Learning
 mobile learning,Mobile Learning
 mobile multimedia,Mobile Multimedia
-mobile OCR,Mobile Ocr
+mobile OCR,Mobile OCR
 mobile phones,Mobile Phones
 Mobile Platform Evaluation,Mobile Platform Evaluation
 mobile text-entry,Mobile Text-Entry
@@ -6525,7 +6525,7 @@ MOCA,Moca
 Modality invariance,Modality Invariance
 MODE DETECTION,Mode Detection
 Mode Detection,Mode Detection
-MODEL,Model
+MODEL,Models
 Model adaptation,Model Adaptation
 Model compression,Model Compression
 Model construction,Model Construction
@@ -6555,9 +6555,9 @@ MODELS,Models
 Models,Models
 Modernized Transcripts,Modernized Transcripts
 MODES,Modes
-MODI lipi,Modi Lipi
-MODI Script,Modi Script
-MODI script OCR,Modi Script Ocr
+MODI lipi,MODI Lipi
+MODI Script,MODI Script
+MODI script OCR,MODI Script OCR
 Modified center distance feature,Modified Center Distance Feature
 MODIFIED DIRECTION FEATURE,Modified Direction Feature
 Modified Direction Feature,Modified Direction Feature
@@ -7262,19 +7262,19 @@ ocr,Optical Character Recognition
 OCR (Optical Character Recognition),Optical Character Recognition
 OCR (optical character recognition),Optical Character Recognition
 OCR (Optical character recognition) etc,Optical Character Recognition
-OCR accuracy,Ocr Accuracy
-OCR algorithms benchmarking,Ocr Algorithms Benchmarking
-OCR Applications,Ocr Applications
-OCR correction,Ocr Correction
-OCR Error correction,Ocr Error Correction
-OCR error-generation model,Ocr Error-Generation Model
-OCR handprint recognition,Ocr Handprint Recognition
-OCR Optimization,Ocr Optimization
-OCR post-processing,Ocr Post-Processing
-OCR SYSTEM,Ocr System
-OCR tool,Ocr Tool
-OCR UNCONSTRAINED OPTIMIZATION,Ocr Unconstrained Optimization
-OCRopus,Ocropus
+OCR accuracy,OCR Accuracy
+OCR algorithms benchmarking,OCR Algorithms Benchmarking
+OCR Applications,OCR Applications
+OCR correction,OCR Correction
+OCR Error correction,OCR Error Correction
+OCR error-generation model,OCR Error-Generation Model
+OCR handprint recognition,OCR Handprint Recognition
+OCR Optimization,OCR Optimization
+OCR post-processing,OCR Post-Processing
+OCR SYSTEM,OCR System
+OCR tool,OCR Tool
+OCR UNCONSTRAINED OPTIMIZATION,OCR Unconstrained Optimization
+OCRopus,OCRopus
 OCULAR MICROTREMOR,Ocular Microtremor
 Odia,Odia
 Odia character recognition,Odia Character Recognition
@@ -7358,7 +7358,7 @@ Offline handwritten text line recognition,Offline Handwritten Text Line Recognit
 Offline handwritten text recognition,Offline Handwritten Text Recognition
 offline handwritten text recognition,Offline Handwritten Text Recognition
 Off-line handwritten text recognition,Offline Handwritten Text Recognition
-Offline hand-written text recognition,Offline Hand-Written Text Recognition
+Offline hand-written text recognition,Offline Handwritten Text Recognition
 Offline HCR,Offline Handwritten Character Recognition
 OFF-LINE IDENTIFICATION,Offline Identification
 Offline musical symbol recognition,Offline Musical Symbol Recognition
@@ -8372,7 +8372,7 @@ reading theory,Reading Theory
 reading unconstrained handwritten material,Reading Unconstrained Handwritten Material
 READING-COMPREHENSION,Reading-Comprehension
 READING-DISABILITY,Reading-Disability
-real time OCR,Real Time Ocr
+real time OCR,Real-Time OCR
 real world systems,Real World Systems
 real-/imaginary-strokes,Real-/Imaginary-Strokes
 Real-life,Real-Life
@@ -8414,7 +8414,7 @@ Recognition Engine,Recognition Engine
 recognition errors,Recognition Errors
 Recognition etc,Recognition Etc
 recognition methods,Recognition Methods
-recognition OCR,Recognition Ocr
+recognition OCR,Recognition OCR
 recognition of fax data,Recognition Of Fax Data
 Recognition of handwritten Arabic numerals,Recognition Of Handwritten Arabic Numerals
 Recognition of Handwritten Digits,Recognition Of Handwritten Digits
@@ -8623,7 +8623,7 @@ rnn,Rnn
 RNN hybrid training algorithm,Rnn Hybrid Training Algorithm
 RNN transducer,Rnn Transducer
 rnnDrop,Rnndrop
-RNN-LSTM,Rnn-Lstm
+RNN-LSTM,RNN-LSTM
 Robert,Robert
 ROBOT ARM,Robot Arm
 Robot reading,Robot Reading
@@ -8837,7 +8837,7 @@ SEGMENTATION THEORY,Segmentation Theory
 segmentation time,Segmentation Time
 segmentation/recognition principle,Segmentation/Recognition Principle
 Segmentation-based,Segmentation-Based
-SEGMENTATION-BASED OCR,Segmentation-Based Ocr
+SEGMENTATION-BASED OCR,Segmentation-Based OCR
 segmentation-based recognition system,Segmentation-Based Recognition System
 segmentation-by-recognition,Segmentation-By-Recognition
 segmentation-driven,Segmentation-Driven
@@ -10782,7 +10782,7 @@ Weights,Weights
 Weightvector,Weightvector
 WEKA,Weka
 Weka,Weka
-WFST-based decoding,Wfst-Based Decoding
+WFST-based decoding,WFST-Based Decoding
 whale optimization,Whale Optimization
 WHITEBOARD,Whiteboard
 whiteboard,Whiteboard
