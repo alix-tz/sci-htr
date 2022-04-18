@@ -4929,7 +4929,7 @@ Hough Transformation,Hough Transformation
 HP-Labs-India's Telugu character dataset,HP-Labs-India's Telugu character dataset
 HRNN,HRNN
 HTK toolkit,HTK toolkit
-HTR,HTR
+HTR,Handwritten Text Recognition
 Hu moments,Hu Moments
 hu moments,Hu Moments
 Hull regions,Hull Regions
@@ -7063,15 +7063,15 @@ Neural network training,Neural Network Training
 training neural networks,Neural Network Training
 neural networks and fuzzy logic,Neural Networks And Fuzzy Logic
 Neural text generation,Neural Text Generation
-NEURAL-NETWORK,Neural-Network
-neural-network combination,Neural-Network Combination
-NEURAL-NETWORKS,Neural-Networks
+NEURAL-NETWORK,Neural Network
+neural-network combination,Neural Network Combination
+NEURAL-NETWORKS,Neural Network
 Neuro Fuzzy Systems,Neuro Fuzzy Systems
 Neuroevolution,Neuroevolution
 neuroevolution,Neuroevolution
 Neuro-evolution,Neuro-Evolution
-Neuro-fuzzy system,Neuro-Fuzzy System
-neuro-fuzzy system,Neuro-Fuzzy System
+Neuro-fuzzy system,Neuro-Fuzzy Systems
+neuro-fuzzy system,Neuro-Fuzzy Systems
 neuro-fuzzy systems,Neuro-Fuzzy Systems
 neuroimaging,Neuroimaging
 Neuromorphic Computing,Neuromorphic Computing
@@ -7109,13 +7109,13 @@ Niblack's thresholding,Niblack's Thresholding
 Niche,Niche
 niching methods,Niching Methods
 NIR,Nir
-NIST,Nist
-NIST database,Nist Database
-NIT dataset,Nit Dataset
-NLP,Nlp
+NIST,NIST
+NIST database,NIST Database
+NIT dataset,NIT Dataset
+NLP,NLP
 NMF,Nmf
-NN,Nn
-NNC,Nnc
+NN,Neural Network
+NNC,Neural Network Combination
 node weight,Node Weight
 nodes,Nodes
 NOISE,Noise
@@ -7257,8 +7257,8 @@ Occam's razor,Occam's Razor
 occlusion dictionary,Occlusion Dictionary
 OCCR,Occr
 Occupational therapy,Occupational Therapy
-OCR,Ocr
-ocr,Ocr
+OCR,Optical Character Recognition
+ocr,Optical Character Recognition
 OCR (Optical Character Recognition),Optical Character Recognition
 OCR (optical character recognition),Optical Character Recognition
 OCR (Optical character recognition) etc,Optical Character Recognition
@@ -7841,7 +7841,7 @@ Pattern spotting,Pattern Spotting
 PATTERN SYNTHESIS,Pattern Synthesis
 PATTERN SYNTHESIS TECHNIQUE,Pattern Synthesis Technique
 PATTERN TRANSFORMATION,Pattern Transformation
-PATTERN-RECOGNITION,Pattern-Recognition
+PATTERN-RECOGNITION,Pattern Recognition
 PATTERNS,Patterns
 Pause,Pause
 pause threshold,Pause Threshold
@@ -9804,15 +9804,15 @@ survival course,Survival Course
 SUSAN,Susan
 suspect investigation,Suspect Investigation
 spatial-variant convolution neural network (SV-CNN),SV-CNN
-SVM,Svm
-svm,Svm
+SVM,SVM
+svm,SVM
 SVM based classification,SVM-based classification
 SVM classification,SVM-based classification
 SVM Classifier,SVM Classifier
 SVM classifier,SVM Classifier
 SVM re-scoring,SVM re-scoring
 SVMS,SVMS
-SVMs,SVMS
+SVMs,SVM
 switch plan,Switch Plan
 syllable assignment,Syllable Assignment
 SYLLABLES,Syllables
